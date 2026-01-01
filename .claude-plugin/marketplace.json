@@ -1,0 +1,15 @@
+{
+  "name": "prims",
+  "owner": {
+    "name": "PrimS",
+    "url": "https://prims.com"
+  },
+  "description": "PRIMS - Production Ready Intelligently Managed Synthesis",
+  "plugins": [
+    {
+      "name": "foundry",
+      "source": "./plugins/foundry",
+      "description": "AI-assisted development workflows with MCP server, commands, agents, and hooks"
+    }
+  ]
+}

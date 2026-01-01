@@ -1,0 +1,9 @@
+{
+  "name": "foundry",
+  "version": "0.0.1",
+  "description": "AI-assisted development workflows with MCP server, commands, agents, and hooks",
+  "author": {
+    "name": "PrimS",
+    "url": "https://prims.com"
+  }
+}
